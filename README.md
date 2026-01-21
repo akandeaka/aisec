@@ -1,6 +1,6 @@
 # AISEC: AI-Based Contract Bidding Platform
 
-I'll create a modern, responsive website for your AISEC capstone project that showcases all the key AI-powered features while providing an intuitive user experience for contractors and government officials.
+A modern, responsive website for your AISEC capstone project that showcases all the key AI-powered features while providing an intuitive user experience for contractors and government officials.
 
 ```html
 <!DOCTYPE html>
